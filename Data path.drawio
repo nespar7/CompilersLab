@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-28T11:03:17.546Z" agent="5.0 (X11; Ubuntu)" etag="o9KICqaVhJmqIRQuP_6S" version="20.5.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-10-28T11:08:25.829Z" agent="5.0 (X11; Ubuntu)" etag="_wRDUiIDdIFX-9eptIEQ" version="20.5.1" type="github" pages="2">
   <diagram id="tAwUDvQRGgTVKRDvRyu4" name="Page-1">
     <mxGraphModel dx="1379" dy="977" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -778,6 +778,12 @@
             <mxPoint x="590" y="640" as="sourcePoint" />
             <mxPoint x="640" y="590" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="F5746jKgq6wKXlrgIvio-1" value="shamt" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="80" y="550" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="F5746jKgq6wKXlrgIvio-2" value="ALU Result" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="720" y="370" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
